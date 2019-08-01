@@ -51,6 +51,7 @@ schanclient is a simple command-line client of [String channel](http://www.schan
 ![MD4](/MD4.png)
 
 ![cb](/cb.JPG)
+![MD4](https://github.com/Joyceeeeeee/learngit/blob/master/img/MD4.png)
 
 
 
